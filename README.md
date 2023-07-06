@@ -1,9 +1,12 @@
 # interschem
 
-Acest proiect l-am realizat in echipa cu Opris Vlad, coleg de grupa in acelasi cu mine.
+Acest proiect l-am realizat in echipa cu Opris Vlad, coleg de grupa in acelasi an cu mine.
 Partea realizata de mine a fost urmatoarea:
-Scrierea unui algoritm ce traseaza conexiunile dintre blocuri astfel incat ele le ocoles, dar nu trec prin ele;
+
+Scrierea unui algoritm ce traseaza conexiunile dintre blocuri astfel incat ele le ocolesc, dar nu trec prin ele;
+
 Generarea unui cod C ce ar simula logica schemei construite.
+
 Alte chestii de importanta secundara.
 
 Vlad s-a ocupat de interpretarea schemei, adica rularea efectiva a schemei, cu input si output. 
